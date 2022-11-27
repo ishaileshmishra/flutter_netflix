@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Screenshots:
 
-<img src="https://raw.githubusercontent.com/ishaileshmishra/flutter_netflix/master/assets/images/screenshot.png" width="1200" height="800">
+<img src="https://raw.githubusercontent.com/ishaileshmishra/flutter_netflix/master/assets/images/screenshot.png" width="1200" height="500">
 
 ## Getting Started
 
