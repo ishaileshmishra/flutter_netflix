@@ -1,4 +1,4 @@
-# flutter_netflix_app
+# NETFLIX IN FLUTTER
 
 A new Flutter project.
 
