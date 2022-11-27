@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Screenshots:
+## Screenshots
 
 <img src="https://raw.githubusercontent.com/ishaileshmishra/flutter_netflix/master/assets/images/screenshot.png" width="1200" height="500">
 
